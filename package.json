@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-weather-gc-ca",
+  "version": "0.1.0",
+  "description": "Environment and Climate Change Canada (ECCC) GeoMet MCP.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "weather-gc-ca"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-weather-gc-ca"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
