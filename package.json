@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-weather-gc-ca",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Environment and Climate Change Canada (ECCC) GeoMet MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d0cb83b65f2a48534ded23f0951fe08ace90f55d9f2706d159d7d2c2d039580c",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-8c04fa6b21a05baddb956a5c75f3508951387b7ed094d145980544ce0f26c890",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
