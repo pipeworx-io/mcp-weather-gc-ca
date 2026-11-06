@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-weather-gc-ca",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Environment and Climate Change Canada (ECCC) GeoMet MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "weather-gc-ca",
     "gatewaySlug": "weather-gc-ca",
-    "sourceHash": "v1-c3b34edb705c3bb8b70ded9b8b1182825a1673c84f4d380ea6344ee82fa62ca5",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-ad01f70b4c1a6998fb1cbac10a6ace0a2bdf95782c7817ff1535ae1883177257",
+    "sourceCommit": "78b905fa3a6880dfb85c79150f4bffe8cf50ef00"
   }
 }
